@@ -1,0 +1,3 @@
+- components vs functions
+- root component
+- create layouts
